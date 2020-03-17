@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project consists of an analysis of the some listings found online pertaining to the Berlin house rental market. 
+This project consists of an analysis of the some listings found online pertaining to the **Berlin** house rental market. 
 While going through the process of finding a house to rent in Berlin, for some months I collected data on 
 the market from the website immobilienscout24 for certain areas of Berlin.
 
@@ -15,15 +15,17 @@ With the data I collected, I was interested in answering some questions to help 
 
 The analysis executed step by step can be found in the notebook `berlin-houses.ipynb`.
 
-The main takeways are:
+### The main takeways are:
 
-- the most expensive surveyed neighbourhood was Mitte, and the least one was Wedding. 
-- the most popular time for publishing new listings was in the morning.
-- the most important predictors for the warm price were if a listing is not located in the neighbourhoods of Wedding 
-or Schöneberg, and if it has a built-in kitchen or a garden.
-- the characteristics that are mostly associated with more interest in a listing are if it is new, 
-has a built-in kitchen or a balcony as well as having more rooms and living space. As for the most sought after areas, 
-it was observed that the most attractive neighbourhoods were Schöneberg, Tiergarten, Mitte, Treptow and Kreuzberg.
+- the most expensive surveyed neighbourhood was **Mitte**, and the least one was **Wedding**. 
+- the most popular time for publishing new listings was in the **morning**.
+- the most important predictors for the warm price were if a listing is not located in the neighbourhoods of **Wedding** 
+or **Schöneberg**, and if it has a **built-in kitchen** or a **garden**.
+- the characteristics that are mostly associated with more interest in a listing are if it is **new**, 
+has a **built-in kitchen** or a **balcony** as well as **having more rooms and living space**. As for the most sought after areas, 
+it was observed that the **most attractive neighbourhoods** were **Schöneberg, Tiergarten, Mitte, Treptow** and **Kreuzberg**.
+
+The blog post about this analysis can be found [here](https://medium.com/@diogomatoschaves/berlin-house-rental-market-analysis-18dfc0c2ca9).
 
 ## Installation
 
